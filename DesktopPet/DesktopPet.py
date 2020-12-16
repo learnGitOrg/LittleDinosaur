@@ -1,11 +1,3 @@
-'''
-Function:
-	实现一款桌面宠物
-Author:
-	Charles
-微信公众号:
-	Charles的皮卡丘
-'''
 import os
 import cfg
 import sys

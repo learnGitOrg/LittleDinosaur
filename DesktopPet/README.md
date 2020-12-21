@@ -1,8 +1,5 @@
-# Introduction
-https://mp.weixin.qq.com/s/4kOzdRXmrxzR88QcYYSFvQ
-
 # Version
-- v0.1.0
+- v0.2.0
 
 # Usage
 ```

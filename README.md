@@ -19,7 +19,7 @@ Chrome，谷歌旗下浏览器，作为一款浏览器来说它的确是十分�
 
 聊了这么多之后，终于要回到正题了：我们究竟想要做一个怎样的产品？
 
-简单来说，这是一款桌面宠物，暂定名为Little Dinosaur。以下是我们当前想要实现的功能：
+简单来说，这是一款桌面宠物，暂定名为Little Rabbit。以下是我们当前想要实现的功能：
 
 在大部分情况下，它只会隐藏在后台，但在特殊情况下（诸如断网，用户长时间未操作），它会从角落中蹦出来，请求与用户互动，用户可以通过简单的操作与它进行游戏。
 
@@ -38,7 +38,7 @@ From the example above, we can see that one of the major disadvantages of choosi
 
 It is difficult to ignore the problems occurred not only in online games, but also in other forms of entertainment. Although short videos can attract users’ eyes to watch them with fragmental information, the lack of high-quality works will make users feel that they are wasting their time. "what did I spend so much time watching?" they tend to have a sense of guilt after a binge. Moreover, the gameplay of stand-alone games, which they are proud of, also adds up the burden for users to get started. Moreover, the hours of game time that they need to spend deter working stiffs.
 
-Generally speaking, unstable service, lack of interest and the need to spend a large amount of time can be the common fault of most of current entertainment methods.
+Generally speaking, unstable service, boredom and the need to spend a large amount of time can be the common fault of most of current entertainment methods.
 
 So is there a simple and stable way of entertainment that we don't need to spend much time and energy on?
 

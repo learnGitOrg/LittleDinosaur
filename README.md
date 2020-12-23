@@ -49,48 +49,46 @@ Chrome, Google's browser, is really excellent as a browser. Yet the reason I alw
 After Android 7.0, if you click the version number continuously, a new icon will appear in the taskbar of Android phone - a dish named “empty dish”. After clicking, four food options appear: bits, fish, chicken, treat. After selecting one of the foods, empty dish will be replaced with it, and the Easter Egg seems to come to an end - but it's not. After an uncertain period of time, the user's mobile phone will receive a message: a cat is here! Click the notification, and the user will enter an interface, which will display the kitten the user has got - it turns out that this is a cat fishing game! It is so simple that users need no more than five seconds’ operation time, and it does not need to spend extra energy. Users only need to offer food and wait for the cat to bite. The uncertainty limits users' waiting time flexibly, bringing a little precious surprise and interest to users. Every cat that users get is unique: it has a unique id and unique patterns. Users can name and share each cat, which is similar to the previous small dinosaur game - simple, interesting and cute.
 
 Let’s we go back to the point: what kind of product do we want to make?
-In short, the product is a desktop pet, tentatively named little dinosaur. Here's what we want to do right now. 
+In short, the product is a desktop pet, tentatively named Little Rabbit. Here's what we want to do right now. 
 In most cases, it will only be hidden in the background, but in special cases (such as disconnection, users have not operated for a long time), it will jump out of the corner, request to interact with users, and users can play games with it through simple operation. 
 
 
 
 Two scenarios:
-1. Little Dinosaur降低生活压力
-张三是一名刚刚毕业的大学生，刚刚在深圳找到了自己的第一份工作，成为了一个普通的互联网公司的一名普通程序员。张三在大学时期特别喜欢玩各种网游，在刚刚入职时，张三还保持着每天游戏的习惯，但是在工作一段时间后，张三发现自己渐渐越来越腾不出时间去玩网游了，而网络游戏快速的版本更迭也使张三渐渐觉得力不从心了，这便产生了一个恶性循环——工作压力大导致没有时间玩游戏，游戏玩得少导致技术变差，技术变差导致玩得不开心，玩得不开心导致工作压力大。终于，张三决定戒掉网游，士气低迷的张三决定为自己寻找一个替代品，最后，他找到了Little Dinosaur，简介里的小恐龙似乎挺可爱的，张三想着，不过这个桌面宠物体量并不大，玩法应该也不多，张三跟着游戏引导试着和小恐龙玩了玩，放了块食物就继续工作去了。
-张三今天的工作格外的困难，这对于刚刚戒掉网游心神不宁的张三更是雪上加霜，一堆不明所以的bug搞的张三焦头烂额，就在张三几近崩溃之时， 一只小恐龙偷偷摸摸地从屏幕边缘跑了出来，叼起张三先前放下的食物就灰溜溜地跑掉了，小恐龙滑稽的动作顿时就把张三逗笑了，他调出了小恐龙，玩了一会儿，顿时感觉自己冷静了不少，在一番苦战之后，终于解决了bug。
-在接下来的日子里，张三努力地适应着没有网游的生活，虽然刚刚步入社会的压力仍然让他有些焦虑，但是每当他看到这个小东西在屏幕里面跑来跑去的时候，都会感到一阵轻松，他也习惯于总是在桌面上放下一块食物，就这样，Little Dinosaur陪着张三度过了一段最为艰难的时光。
+1. Little Rabbit降低生活压力
+张三是一名刚刚毕业的大学生，刚刚在深圳找到了自己的第一份工作，成为了一个普通的互联网公司的一名普通程序员。张三在大学时期特别喜欢玩各种网游，在刚刚入职时，张三还保持着每天游戏的习惯，但是在工作一段时间后，张三发现自己渐渐越来越腾不出时间去玩网游了，而网络游戏快速的版本更迭也使张三渐渐觉得力不从心了，这便产生了一个恶性循环——工作压力大导致没有时间玩游戏，游戏玩得少导致技术变差，技术变差导致玩得不开心，玩得不开心导致工作压力大。终于，张三决定戒掉网游，士气低迷的张三决定为自己寻找一个替代品，最后，他找到了Little Rabbit，简介里的小恐龙似乎挺可爱的，张三想着，不过这个桌面宠物体量并不大，玩法应该也不多，张三跟着游戏引导试着和小白兔玩了玩，放了块食物就继续工作去了。
+张三今天的工作格外的困难，这对于刚刚戒掉网游心神不宁的张三更是雪上加霜，一堆不明所以的bug搞的张三焦头烂额，就在张三几近崩溃之时， 一只小白兔偷偷摸摸地从屏幕边缘跑了出来，小白兔儿滑稽的动作顿时就把张三逗笑了，他调出了小白兔，玩了一会儿，顿时感觉自己冷静了不少，在一番苦战之后，终于解决了bug。
+在接下来的日子里，张三努力地适应着没有网游的生活，虽然刚刚步入社会的压力仍然让他有些焦虑，但是每当他看到这个小东西在屏幕里面跑来跑去的时候，都会感到一阵轻松。就这样，Little Rabbit陪着张三度过了一段最为艰难的时光。
 
-2. Little Dinosaur提升生活乐趣
-李四是一名二十多岁的工程师，供职于某家国企，在几年的工作后生活渐渐稳定了下来，但稳定的同时李四也越发觉得生活平淡如水乏善可陈，李四从小就热爱学习，对于同龄人热衷的游戏，视频之流都是没有什么兴趣的，也因此缺少了和他人交际的共同语言。为了改变这一现状，李四决定选择Little Dinosaur来拉近和同龄人之间的距离，起初李四并不觉得屏幕里这个会偷偷蹦来蹦去的小东西有什么好玩的，只是当做一个宠物来养，无聊的时候就调出来玩玩小游戏消磨一下时间。
-这天，李四正在午休时间百无聊赖地玩着Little Dinosaur，想着怎么和同事们打好关系，这时，隔壁桌的小花因为一个工作问题来请教李四，看到屏幕的那一刻小花就被屏幕上可爱的身影吸引了，李四借此久违地和同时聊起了天。
-自此以后，同事们眼中李四死板的形象渐渐被改变了，大家渐渐愿意去和李四交流，而在于大家交流之后，李四也渐渐开始了解同龄人的兴趣爱好和其中的乐趣，就这样，借助Little Dinosaur，李四改变了自己枯燥的生活，改善了与同事之间的关系，提升了自己生活的乐趣。
+2. Little Rabbit提升生活乐趣
+李四是一名二十多岁的工程师，供职于某家国企，在几年的工作后生活渐渐稳定了下来，但稳定的同时李四也越发觉得生活平淡如水乏善可陈，李四从小就热爱学习，对于同龄人热衷的游戏，视频之流都是没有什么兴趣的，也因此缺少了和他人交际的共同语言。为了改变这一现状，李四决定选择Little Rabbit来拉近和同龄人之间的距离，起初李四并不觉得屏幕里这个会偷偷蹦来蹦去的小东西有什么好玩的，只是当做一个宠物来养，无聊的时候就调出来玩玩小游戏消磨一下时间。
+这天，李四正在午休时间百无聊赖地玩着Little Rabbit，想着怎么和同事们打好关系，这时，隔壁桌的小花因为一个工作问题来请教李四，看到屏幕的那一刻小花就被屏幕上可爱的身影吸引了，李四借此久违地和同时聊起了天。
+自此以后，同事们眼中李四死板的形象渐渐被改变了，大家渐渐愿意去和李四交流，而在于大家交流之后，李四也渐渐开始了解同龄人的兴趣爱好和其中的乐趣，就这样，借助Little Rabbit，李四改变了自己枯燥的生活，改善了与同事之间的关系，提升了自己生活的乐趣。
 
 Two scenarios
-1. Little dinosaur reduces life pressure
+1. Little Rabbit reduces life pressure
 
-Zhang San is a college student who has just graduated. He has just found his first job in Shenzhen and has become an ordinary programmer of an ordinary Internet company. Zhang San especially liked to play all kinds of online games when he was in college. When he was just employed, Zhang San still kept the habit of playing games every day. However, after working for a period of time, Zhang San found that he could not make time to play online games. The rapid version change of online games also made Zhang San feel powerless gradually, which created a vicious circle - work pressure As a result, there is no time to play games, less games lead to poor technology, poor technology leads to unhappy play, and unhappy play leads to high work pressure. Finally, Zhang San decided to give up online games. Zhang San, with low morale, decided to find a substitute for himself. Finally, he found little Dinosaur, the little dinosaur in the introduction seems very cute, Zhang San thought. However, the size of the table pet is not large, and there should be not many ways to play. Zhang San tries to play with the little dinosaur under the guidance of the game. He puts a piece of food and goes on working.
+Zhang San is a college student who has just graduated. He has just found his first job in Shenzhen and has become an ordinary programmer of an ordinary Internet company. Zhang San especially liked to play all kinds of online games when he was in college. When he was just employed, Zhang San still kept the habit of playing games every day. However, after working for a period of time, Zhang San found that he could not make time to play online games. The rapid version change of online games also made Zhang San feel powerless gradually, which created a vicious circle - work pressure As a result, there is no time to play games, less games lead to poor technology, poor technology leads to unhappy play, and unhappy play leads to high work pressure. Finally, Zhang San decided to give up online games. Zhang San, with low morale, decided to find a substitute for himself. Finally, he found little Rabbit, the little rabbit in the introduction seems very cute, Zhang San thought. However, the size of the table pet is not large, and there should be not many ways to play. Zhang San tries to play with the little dinosaur under the guidance of the game. He puts a piece of food and goes on working.
 
-Zhang San's work today is particularly difficult, which is even worse for Zhang San, who has just given up online games. A lot of unknown bugs have made Zhang San in trouble. Just when Zhang San nearly collapsed, A small dinosaur stealthily ran out from the edge of the screen, picked up the food that Zhang San had put down before and ran away in a gray way. The funny action of the little dinosaur immediately made Zhang San laugh. He called out the little dinosaur. After playing for a while, he felt that he had calmed down a lot. After a hard struggle, he finally solved the bug.
+Zhang San's work today is particularly difficult, which is even worse for Zhang San, who has just given up online games. A lot of unknown bugs have made Zhang San in trouble. Just when Zhang San nearly collapsed, A small rabbit stealthily ran out from the edge of the screen, picked up the food that Zhang San had put down before and ran away in a gray way. The funny action of the little rabbit immediately made Zhang San laugh. He called out the little rabbit. After playing for a while, he felt that he had calmed down a lot. After a hard struggle, he finally solved the bug.
 
 In the following days, Zhang San tried to adapt to the life without online games. Although the pressure of just entering the society still made him a little anxious, he would feel relaxed whenever he saw this little thing running around on the screen. He was also used to putting down a piece of food on the desktop Dinosaur accompanied Zhang San Du through the most difficult time.
 
 
-2. Little dinosaur improves the fun of life
+2. Little Rabbit improves the fun of life
 
-Li Si is an engineer in his twenties. He works in a state-owned enterprise. After several years of work, his life has gradually stabilized. However, at the same time, Li Si also feels that his life is not as good as water. He has loved learning since he was a child. He has no interest in the games that his peers are keen on. Therefore, he lacks the common language to communicate with others. In order to change this situation, Li Si decided to choose little dinosaur to shorten the distance between his peers. At first, Li Si didn't think the little thing on the screen that would sneak around was any fun. He just kept it as a pet. When he was bored, he would play games to kill his time.
+Li Si is an engineer in his twenties. He works in a state-owned enterprise. After several years of work, his life has gradually stabilized. However, at the same time, Li Si also feels that his life is not as good as water. He has loved learning since he was a child. He has no interest in the games that his peers are keen on. Therefore, he lacks the common language to communicate with others. In order to change this situation, Li Si decided to choose Little Rabbit to shorten the distance between his peers. At first, Li Si didn't think the little thing on the screen that would sneak around was any fun. He just kept it as a pet. When he was bored, he would play games to kill his time.
 
-On this day, Li Si was playing little dinosaur during his lunch break, thinking about how to get on well with his colleagues. At this time, floret at the next table came to ask Li Si for advice because of a work problem. At the moment when he saw the screen, he was attracted by the lovely figure on the screen. Li Si took this opportunity to chat with him for a long time.
+On this day, Li Si was playing Little Rabbit during his lunch break, thinking about how to get on well with his colleagues. At this time, floret at the next table came to ask Li Si for advice because of a work problem. At the moment when he saw the screen, he was attracted by the lovely figure on the screen. Li Si took this opportunity to chat with him for a long time.
 
-Since then, the rigid image of Li Si has gradually changed. People are more willing to communicate with him. After the exchange, Li Si gradually begins to understand the interests and hobbies of his peers and the fun among them. In this way, with the help of little Dinosaur, Li Si is willing to communicate with him and Li Si changed their boring life, improved their relationship with colleagues, and enhanced the fun of their own life.
+Since then, the rigid image of Li Si has gradually changed. People are more willing to communicate with him. After the exchange, Li Si gradually begins to understand the interests and hobbies of his peers and the fun among them. In this way, with the help of little Rabbit, Li Si is willing to communicate with him and Li Si changed their boring life, improved their relationship with colleagues, and enhanced the fun of their own life.
 
 Features:
 1.轻量级娱乐工具，操作简单，耗费精力少，低启动性要求，高度趣味性，仅消耗极少的碎片时间
-2.用户可以在桌面上放置食物，在不确定的时间后，它会从角落中偷偷跑出来吃掉食物再逃走。
-3.用户可以通过右键快捷栏主动唤出宠物与其交互。
-4.用户可以联网下载不同种类的宠物，也可上传自制宠物，但产品可以完全离线运行
+2.用户可以通过右键快捷栏主动唤出宠物与其交互。
+3.用户可以联网下载不同种类的宠物，也可上传自制宠物，但产品可以完全离线运行
 
 Features:
 1. A lightweight entertainment tool with simple operation, low energy consumption, low startup requirements and high delight.
-2. Users can place food on the desktop, and after an uncertain time, it will sneak out of the corner to eat the food and then escape. 
-3. Users can actively call out pets to interact with them through the right-click shortcut bar. 
-4. Users can download different kinds of pets online, or upload self-made pets, but the products can run completely offline.
+2. Users can actively call out pets to interact with them through the right-click shortcut bar. 
+3. Users can download different kinds of pets online, or upload self-made pets, but the products can run completely offline.

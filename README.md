@@ -1,3 +1,4 @@
+### Langage: English | [Chinese](/README_zh.md)
 
 Product vision:
 This product is designed to allow every working stiff to enjoy simple pleasure during drudgery. 

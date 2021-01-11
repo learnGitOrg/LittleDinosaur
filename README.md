@@ -1,6 +1,8 @@
-### Langage: English | [Chinese](/README_zh.md)
+# LittleDinosaur
 
-Product vision:
+### Langage: English | [中文](/README_zh.md)
+
+### Product vision:
 This product is designed to allow every working stiff to enjoy simple pleasure during drudgery. 
 
 The inspiration of this product derives from the build-in game “Dinosaur Parkour” in Chrome and build-in Easter Egg cat-fishing game in Android. 
@@ -29,9 +31,7 @@ Let’s we go back to the point: what kind of product do we want to make?
 In short, the product is a desktop pet, tentatively named Little Rabbit. Here's what we want to do right now. 
 In most cases, it will only be hidden in the background, but in special cases (such as disconnection, users have not operated for a long time), it will jump out of the corner, request to interact with users, and users can play games with it through simple operation. 
 
-
-
-Two scenarios
+### Two scenarios
 1. Little Rabbit reduces life pressure
 
 Zhang San is a college student who has just graduated. He has just found his first job in Shenzhen and has become an ordinary programmer of an ordinary Internet company. Zhang San especially liked to play all kinds of online games when he was in college. When he was just employed, Zhang San still kept the habit of playing games every day. However, after working for a period of time, Zhang San found that he could not make time to play online games. The rapid version change of online games also made Zhang San feel powerless gradually, which created a vicious circle - work pressure As a result, there is no time to play games, less games lead to poor technology, poor technology leads to unhappy play, and unhappy play leads to high work pressure. Finally, Zhang San decided to give up online games. Zhang San, with low morale, decided to find a substitute for himself. Finally, he found little Rabbit, the little rabbit in the introduction seems very cute, Zhang San thought. However, the size of the table pet is not large, and there should be not many ways to play. Zhang San tries to play with the little dinosaur under the guidance of the game. He puts a piece of food and goes on working.
@@ -50,7 +50,7 @@ On this day, Li Si was playing Little Rabbit during his lunch break, thinking ab
 Since then, the rigid image of Li Si has gradually changed. People are more willing to communicate with him. After the exchange, Li Si gradually begins to understand the interests and hobbies of his peers and the fun among them. In this way, with the help of little Rabbit, Li Si is willing to communicate with him and Li Si changed their boring life, improved their relationship with colleagues, and enhanced the fun of their own life.
 
 
-Features:
+### Features:
 1. A lightweight entertainment tool with simple operation, low energy consumption, low startup requirements and high delight.
 2. Users can actively call out pets to interact with them through the right-click shortcut bar. 
 3. Users can download different kinds of pets online, or upload self-made pets, but the products can run completely offline.
